@@ -8,6 +8,14 @@
     <a img src="https://komarev.com/ghpvc/?linue-code">
     </a>
 </a>
+
+
+
+
+
+
+
+
 ### :new_moon: About me:
 - :clipboard:I'm currently learning **Python**
 - :mailbox:How to reach me: [Telegram](https://t.me/Quammax)
