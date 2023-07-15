@@ -1,15 +1,17 @@
-<div id="headler" align="left">
-    <h1>Hi there, I'm Aleksey</h1>
-    <h2>Beginning developer</h2>
-<div id="social" align="center">
-    <a href="https://t.me/Quammax">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a img src="https://komarev.com/ghpvc/?linue-code">
-    </a>
-</a>
+My name is [Aleksey](https://github.com/yourusername). I...
 
-### :new_moon: О себе:
-- :clipboard: В настоящее время изучаю Python
-- :mailbox: Как связаться со мной: [Telegram](https://t.me/Quammax)
-- :earth_asia: Говорю на русском языке
+- :books: I study various technologies, including Python.
+- :speech_balloon: I speak Russian and English.
+
+Besides programming, I am fond of...
+
+- :musical_note: Music
+- :art: Art
+
+Stay in touch with me:
+
+- :email: [Mail](linue@inbox.ru)
+- :bird: [Twitter](https://twitter.com/linue)
+- :camera: [Instagram](https://www.instagram.com/quam.max)
+
+Welcome to my GitHub page! :rocket:
