@@ -10,7 +10,7 @@ Besides programming, I am fond of...
 
 Stay in touch with me:
 
-- :email: [Mail](linue@inbox.ru)
+- :email: [linue@inbox.ru](linue@inbox.ru)
 - :bird: [Twitter](https://twitter.com/linue)
 - :camera: [Instagram](https://www.instagram.com/quam.max)
 
