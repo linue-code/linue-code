@@ -17,5 +17,5 @@ Stay in touch with me:
 Welcome to my GitHub page! :rocket:
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=linue-code&theme=codestackr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linue-code&show_icons=true&theme=default&bg_color=09131B&title_color=FF652F&text_color=FEE300&icon_color=FF652F)
-
+(https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linue-code&show_icons=true&theme=default&bg_color=09131B&title_color=FF652F&text_color=FEE300&icon_color=FF652F)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linue&layout=donut&bg_color=09131B)](https://github.com/anuraghazra/github-readme-stats)
