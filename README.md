@@ -1,4 +1,4 @@
-<div id="headler" align="right">
+<div id="headler" align="left">
     <h1>Hi there, I'm Aleksey</h1>
     <h2>Beginning developer</h2>
 <div id="social" align="center">
