@@ -1,4 +1,4 @@
-<div id="headler" align="center">
+<div id="headler" align="right">
     <h1>Hi there, I'm Aleksey</h1>
     <h2>Beginning developer</h2>
 <div id="social" align="center">
@@ -8,13 +8,6 @@
     <a img src="https://komarev.com/ghpvc/?linue-code">
     </a>
 </a>
-
-
-
-
-
-
-
 
 ### :new_moon: About me:
 - :clipboard:I'm currently learning **Python**
