@@ -10,7 +10,7 @@
 </a>
 
 
-### :new_moon: About me:
-- :clipboard:I'm currently learning **Python**
-- :mailbox:How to reach me: [Telegram](https://t.me/Quammax)
-- :earth_asia:I speak Russian
+    ### :new_moon: About me:
+    - :clipboard:I'm currently learning **Python**
+    - :mailbox:How to reach me: [Telegram](https://t.me/Quammax)
+    - :earth_asia:I speak Russian
