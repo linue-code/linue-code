@@ -1,7 +1,7 @@
 My name is [Aleksey](https://github.com/yourusername). I...
 
 - :books: I study various technologies, including JavaScript.
-- :speech_balloon: I speak Russian and English.
+- :speech_balloon: I speak Russian.
 
 Besides programming, I am fond of...
 
