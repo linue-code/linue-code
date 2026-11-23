@@ -1,21 +1,32 @@
-My name is [Aleksey](https://github.com/yourusername). I...
+# Hi there, I'm Alexey (@linue-code) 👋
 
-- :books: I study various technologies, including JavaScript.
-- :speech_balloon: I speak Russian.
+**Backend & DevOps Engineer** passionate about building resilient asynchronous systems, containerized infrastructure, and automated pipelines.
 
-Besides programming, I am fond of...
+[![Telegram](https://img.shields.io/badge/Telegram-@quammax-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/quammax)
+[![Email](https://img.shields.io/badge/Email-me@linue.ru-D14836?style=flat&logo=gmail&logoColor=white)](mailto:me@linue.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-linue--code-181717?style=flat&logo=github&logoColor=white)](https://github.com/linue-code)
 
-- :musical_note: Music
-- :art: Art
+---
 
-Stay in touch with me:
+### 🛠 Tech Stack
 
-- :email: [linue@inbox.ru](linue@inbox.ru)
-- :bird: [Twitter](https://twitter.com/linue)
-- :camera: [Instagram](https://www.instagram.com/quam.max)
+- **Languages**: Python (FastAPI, Asyncio, Pydantic, SQLAlchemy 2.0), Go, Bash, TypeScript / JavaScript
+- **DevOps & CI/CD**: Docker, Docker Compose, Kubernetes, GitHub Actions, Linux (Ubuntu, Arch Linux)
+- **Networking & SysAdmin**: Systemd, Caddy, Nginx, WireGuard, Tailscale, Fail2ban
+- **Observability & DB**: Prometheus, Grafana, PostgreSQL, SQLite, Redis
 
-Welcome to my GitHub page! :rocket:
+---
 
-### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linue-code&show_icons=true&theme=default&bg_color=09131B&title_color=FF652F&text_color=FEE300&icon_color=FF652F)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linue&layout=donut&bg_color=09131B&title_color=FF652F&text_color=FEE300&icon_color=FF652)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Featured Projects
+
+- **[funpay-tracker](https://github.com/linue-code/funpay-tracker)**
+  *Async FunPay price monitoring service with FastAPI, Next.js, Prometheus, Hardened Docker & Kubernetes.*
+- **[reels-bot](https://github.com/linue-code/reels-bot)**
+  *Telegram bot for downloading Instagram Reels, uploading to Google Drive, and generating AI summaries via Gemini.*
+
+---
+
+### 📊 GitHub Activity
+
+![Alexey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linue-code&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linue-code&layout=compact&theme=tokyonight&hide_border=true)
